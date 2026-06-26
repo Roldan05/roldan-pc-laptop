@@ -1,0 +1,9 @@
+ROLDAN PC & LAPTOP - SITIO WEB
+
+Para ver la página:
+1. Abra la carpeta.
+2. Haga doble clic en index.html.
+3. Se abrirá en el navegador.
+
+Para publicar en Internet, debe subir toda la carpeta al hosting.
+No borre las carpetas css ni js, porque ahí están el diseño y las animaciones.
